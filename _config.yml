@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "                "
 title_separator          : "-"
 name                     : &name "Sinan Kalkan"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Sinan Kalkan"
   avatar           : "profile.png"
-  bio              : #"Your biography for the left-hand sidebar"
+  bio              : " " #"Your biography for the left-hand sidebar"
   location         : "<a href='https://goo.gl/maps/X4139kCiVsHs6kKK7'>Location</a>"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
