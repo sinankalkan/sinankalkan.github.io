@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sinan Kalkan"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Sinan Kalkan"
 description              : &description "personal description"
