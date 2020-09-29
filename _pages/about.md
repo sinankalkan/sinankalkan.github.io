@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-## News (since 2018)
-
 - New paper accepted to Ro-Man 2020 on "Continual Learning for Affective Robotics: Why, What and How?" in collaboration with N. Churamani and H. Gunes.
 - On June 17, I had a chance to talk about our recent work (with Emre Akbas, Kemal Oksuz and Baris Can Cam) on addressing imbalance problems in computer vision at the Wednesday Seminars of the Department of Computer Science and Technology of University of Cambridge. The video of the talk is available here.
 - I have been bestowed upon the Science Academy, Turkey Young Scientist Award for 2020. I am grateful to all my collaborators who have made this possible.
