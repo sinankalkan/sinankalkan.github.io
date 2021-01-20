@@ -7,11 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<small>
+<medium>
 <a href="http://kovan.ceng.metu.edu.tr/index.php/Main_Page">KOVAN Research Lab</a> & <a href="http://image.ceng.metu.edu.tr">METU ImageLab</a> <br>
 <a href="http://www.ceng.metu.edu.tr">Dept. of Computer Engineering</a>, <a href="http://www.metu.edu.tr">Middle East Technical University</a><br>
 Üniversiteler Mah, Dumlupınar Bulvarı No:1, 06800 Çankaya/Ankara/TURKEY
-</small>
+</medium>
 
 News (Since 2018)
 ======
