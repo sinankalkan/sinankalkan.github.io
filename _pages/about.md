@@ -14,8 +14,10 @@ redirect_from:
 06800 Çankaya/Ankara/TURKEY
 
 
-== News (Since 2018)==
-- New paper accepted to the 34th Conference on Neural Information Processing System (NeurIPS) as a spotlight paper: "A Ranking-based, Balanced Loss Function Unifying Classification and Localisation in Object Detection". Details to follow soon.
+News (Since 2018)
+======
+
+- New paper accepted to the 34th Conference on Neural Information Processing System (NeurIPS) as a spotlight paper: "A Ranking-based, Balanced Loss Function Unifying Classification and Localisation in Object Detection". [<a href="https://proceedings.neurips.cc/paper/2020/hash/b2eeb7362ef83deff5c7813a67e14f0a-Abstract.html">Paper</a>], [<a href="https://github.com/kemaloksuz/aLRPLoss">Code</a>]
 - New paper accepted to <a href="http://ro-man2020.unina.it/">Ro-Man 2020</a> on "Continual Learning for Affective Robotics: Why, What and How?" in collaboration with N. Churamani and H. Gunes. [<a href="https://www.repository.cam.ac.uk/handle/1810/307607">Preprint</a>]
 - On June 17, I had a chance to <a href="https://talks.cam.ac.uk/talk/index/148762">talk about our recent work</a> (with Emre Akbas, Kemal Oksuz and Baris Can Cam) on addressing imbalance problems in computer vision at the Wednesday Seminars of the Department of Computer Science and Technology of University of Cambridge. The video of the talk is available <a href="https://www.cl.cam.ac.uk/seminars/wednesday/video/200617-1500-t148762.mp4">here</a>.
 - I have been bestowed upon <a href="https://bilimakademisi.org/wp-content/uploads/2020/04/bagep-2020-kazananlar-pdf-listesi.pdf">the Science Academy, Turkey Young Scientist Award for 2020</a>. I am grateful to all my collaborators who have made this possible.
