@@ -1,13 +1,20 @@
 ---
 permalink: /
-title: "News (since 2018)"
-excerpt: "News"
+title: "Sinan Kalkan - Homepage"
+excerpt: "Sinan Kalkan - Homepage"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+<a href="http://kovan.ceng.metu.edu.tr/index.php/Main_Page">KOVAN Research Lab</a> & <a href="http://image.ceng.metu.edu.tr">METU ImageLab</a> 
+<a href="http://www.ceng.metu.edu.tr">Dept. of Computer Engineering</a>
+<a href="http://www.metu.edu.tr">Middle East Technical University</a>
+Üniversiteler Mahallesi, Dumlupınar Bulvarı No:1, 
+06800 Çankaya/Ankara/TURKEY
 
+
+== News (Since 2018)==
 - New paper accepted to the 34th Conference on Neural Information Processing System (NeurIPS) as a spotlight paper: "A Ranking-based, Balanced Loss Function Unifying Classification and Localisation in Object Detection". Details to follow soon.
 - New paper accepted to <a href="http://ro-man2020.unina.it/">Ro-Man 2020</a> on "Continual Learning for Affective Robotics: Why, What and How?" in collaboration with N. Churamani and H. Gunes. [<a href="https://www.repository.cam.ac.uk/handle/1810/307607">Preprint</a>]
 - On June 17, I had a chance to <a href="https://talks.cam.ac.uk/talk/index/148762">talk about our recent work</a> (with Emre Akbas, Kemal Oksuz and Baris Can Cam) on addressing imbalance problems in computer vision at the Wednesday Seminars of the Department of Computer Science and Technology of University of Cambridge. The video of the talk is available <a href="https://www.cl.cam.ac.uk/seminars/wednesday/video/200617-1500-t148762.mp4">here</a>.
