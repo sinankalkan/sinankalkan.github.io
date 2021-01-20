@@ -17,16 +17,6 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
- 
 * April 2016 - Present	
   * Assoct Prof., Dept. of Computer Engineering, Middle East Technical University.
 * April 2010 - April 2016, 
@@ -40,9 +30,3 @@ Work experience
   * Collaborated with Prof. Norbert Krueger from University of Southern Denmark, helping in supervision of different students which has lead to several scientific publications.
 * Sept. 2001 - Sept. 2003
   * Teaching Assistant, Computer Engineering Dept., METU. This period includes the M.Sc. studies.
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
